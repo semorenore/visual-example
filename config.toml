@@ -1,7 +1,7 @@
 baseURL = "https://visualcomputing.github.io/vc"
 languageCode = "en-us"
 title = "Visual Computing"
-theme = 'book'
+theme = 'hugo-paper'
 
 # Book configuration
 disablePathToLower = true

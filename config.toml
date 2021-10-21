@@ -1,7 +1,7 @@
-baseURL = "https://visualcomputing.github.io/vc"
+baseURL = "https://semorenore.github.io/visual-example"
 languageCode = "en-us"
 title = "Visual Computing"
-theme = 'hugo-paper'
+theme = 'book'
 
 # Book configuration
 disablePathToLower = true
